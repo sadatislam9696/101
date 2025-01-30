@@ -38,4 +38,3 @@ Automated Business Solution with QR Code Integration (Python Code)**
 
 ---
 
-This version improves clarity and makes the instructions easier to follow. Let me know if you need any further refinements! 😊
